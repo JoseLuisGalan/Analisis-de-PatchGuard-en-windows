@@ -1,8 +1,8 @@
 # Evasión de la protección PatchGuard en Windows
 
-**Autor:** [Tu nombre]
+**Autor:** José Luis Galán DOs Reis Pereira
 **Módulo:** Ingeniería inversa en sistemas operativos Windows
-**Fecha:** [Fecha de entrega]
+**Fecha:** 30/06/2026
 **Repositorio:** [URL del repo]
 
 ---
